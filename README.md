@@ -83,6 +83,16 @@ scipy
 scikit-learn  # apenas para notebook 3
 ```
 
+### Ambiente virtual (recomendado):
+```bash
+python -m venv .venv
+```
+
+Ativação no Windows (PowerShell):
+```bash
+.venv\Scripts\Activate.ps1
+```
+
 ### Instalação (recomendado):
 ```bash
 pip install -r requirements.txt
