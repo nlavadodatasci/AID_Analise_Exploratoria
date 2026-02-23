@@ -1,5 +1,5 @@
 # Aula de Análise Preliminar e Exploratória de Dados
-## Engenharia Biomédica - IPC
+## Engenharia Biomédica - Instituto Superior Engenharia Coimbra
 
 ---
 
@@ -260,7 +260,7 @@ Após dominar a análise exploratória, os estudantes estarão preparados para:
 
 ## 📧 Contacto e Contribuições
 
-**Professor:** [Seu Nome]  
+**Professor:** Nuno Lavado  
 **Instituição:** Instituto Politécnico de Coimbra - ISEC  
 **Disciplina:** Análise Inteligente de Dados  
 **Curso:** Licenciatura em Engenharia Biomédica
@@ -273,11 +273,6 @@ Após dominar a análise exploratória, os estudantes estarão preparados para:
 ---
 
 ## 📚 Referências Adicionais
-
-### Livros Recomendados:
-- "Python for Data Analysis" - Wes McKinney
-- "Hands-On Machine Learning" - Aurélien Géron
-- "Introduction to Statistical Learning" - James et al.
 
 ### Recursos Online:
 - Pandas Documentation: https://pandas.pydata.org/
