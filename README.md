@@ -9,28 +9,28 @@ Este material contém **4 notebooks Jupyter** para a disciplina de **Análise In
 
 ### Notebooks Disponíveis:
 
-#### 1️⃣ **Diabetes Dataset** (`01_Diabetes_Analise_Exploratoria.ipynb`)
+#### 1️⃣ **Diabetes Dataset** (`notebooks/01_Diabetes_Analise_Exploratoria.ipynb`)
 - **Dataset:** Pima Indians Diabetes Database
 - **Tipo:** Dados clínicos tabulares
 - **Características:** 768 pacientes, 8 features clínicas
 - **Foco:** Análise de qualidade de dados (zeros inválidos), correlações, comparação entre grupos
 - **Nível:** Introdutório
 
-#### 2️⃣ **Heart Disease Dataset** (`02_Heart_Disease_Analise_Exploratoria.ipynb`)
+#### 2️⃣ **Heart Disease Dataset** (`notebooks/02_Heart_Disease_Analise_Exploratoria.ipynb`)
 - **Dataset:** Cleveland Heart Disease Database
 - **Tipo:** Dados cardiovasculares mistos (numéricos + categóricos)
 - **Características:** 303 pacientes, 13 features
 - **Foco:** Análise de variáveis categóricas, relações multivariadas, fatores de risco
 - **Nível:** Intermédio
 
-#### 3️⃣ **Breast Cancer Dataset** (`03_Breast_Cancer_Analise_Exploratoria.ipynb`)
+#### 3️⃣ **Breast Cancer Dataset** (`notebooks/03_Breast_Cancer_Analise_Exploratoria.ipynb`)
 - **Dataset:** Wisconsin Breast Cancer Database
 - **Tipo:** Features extraídas de imagens médicas
 - **Características:** 569 amostras, 30 features (MEAN, SE, WORST)
 - **Foco:** Multicolinearidade, features derivadas, comparação MEAN vs WORST
 - **Nível:** Avançado
 
-#### 4️⃣ **Vital Signs Dataset** (`04_Sinais_Vitais_Analise_Exploratoria.ipynb`)
+#### 4️⃣ **Vital Signs Dataset** (`notebooks/04_Sinais_Vitais_Analise_Exploratoria.ipynb`)
 - **Dataset:** Sinais vitais simulados (UCI)
 - **Tipo:** Séries temporais de monitorização
 - **Características:** 100 pacientes, 24h de monitorização, 6 sinais vitais
@@ -60,6 +60,18 @@ Este material contém **4 notebooks Jupyter** para a disciplina de **Análise In
 ---
 
 ## 🔧 Requisitos Técnicos
+
+## 📁 Estrutura do Repositório
+
+```text
+.
+├── README.md
+└── notebooks/
+   ├── 01_Diabetes_Analise_Exploratoria.ipynb
+   ├── 02_Heart_Disease_Analise_Exploratoria.ipynb
+   ├── 03_Breast_Cancer_Analise_Exploratoria.ipynb
+   └── 04_Sinais_Vitais_Analise_Exploratoria.ipynb
+```
 
 ### Bibliotecas Python Necessárias:
 ```python
