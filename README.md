@@ -83,7 +83,12 @@ scipy
 scikit-learn  # apenas para notebook 3
 ```
 
-### Instalação:
+### Instalação (recomendado):
+```bash
+pip install -r requirements.txt
+```
+
+### Instalação (alternativa):
 ```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ```
