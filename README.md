@@ -5,7 +5,7 @@
 
 ## 📚 Conteúdo do Material
 
-Este material contém **4 notebooks Jupyter** para a disciplina de **Análise Inteligente de Dados**, focados em análise preliminar e exploratória de datasets biomédicos. Como preliminar e para uma introdução genérica aos **notebooks Jupyter** recomenda-se [este notebook](https://www.kaggle.com/code/jhoward/jupyter-notebook-101)
+Este material contém **4 notebooks Jupyter** para a disciplina de **Análise Inteligente de Dados**, focados em análise preliminar e exploratória de datasets biomédicos. Como preliminar e para uma introdução genérica aos **notebooks Jupyter** recomenda-se [este notebook](https://www.kaggle.com/code/jhoward/jupyter-notebook-101).
 
 ### Notebooks Disponíveis:
 
