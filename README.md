@@ -1,4 +1,4 @@
-# Aula de Análise Preliminar e Exploratória de Dados
+# Análise Preliminar e Exploratória de Dados
 ## Engenharia Biomédica - Instituto Superior Engenharia Coimbra
 
 ---
